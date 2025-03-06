@@ -18,5 +18,5 @@ spec:
       - name: guestbook
         image: weaveworksdemos/front-end:latest
         ports:
-        - containerPort: 80
+        - containerPort: 8079
 
